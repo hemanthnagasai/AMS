@@ -18,8 +18,7 @@ The Attendance Management System is an innovative solution developed by the KKR 
 - [Usage](#usage)
 - [Technology Stack](#technology-stack)
 - [Contributing](#contributing)
-- [License](#license)
-
+- 
 ## Purpose
 
 The primary purpose of this project is to streamline the attendance-taking process in educational institutions. By utilizing advanced face detection and recognition algorithms, the system eliminates the need for manual roll calls, reducing time wastage and the potential for errors.
